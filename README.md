@@ -15,3 +15,5 @@ An interactive Streamlit dashboard for analyzing student mental health trends an
 - Plotly
 - Streamlit
 - Scikit-Learn
+
+Highly interactive mental health dashboard.
